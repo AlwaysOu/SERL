@@ -1,3 +1,5 @@
+##  To Be Updated
+
 📌 This repository contains the **camera-ready code** for the paper:
 **"[SERL: Self-Examining Reinforcement Learning on Open-Domain]"**, *AAAI 2026*.  
 In this project, we provide the data, prompts, and running scripts for training the General QA task. 
