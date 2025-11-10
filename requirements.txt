@@ -1,0 +1,6 @@
+accelerate == 1.9.0
+datasets
+rich
+transformers == 4.51.3
+triton == 3.1.0
+deepspeed == 0.15.1
