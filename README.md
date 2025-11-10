@@ -1,11 +1,7 @@
-# Supplementary Code for [SERL]
-
-This repository contains the **supplementary code** used to implement the experiments described in the paper:
+📌 This repository contains the **camera-ready code** for the paper:
+**"[SERL: Self-Examining Reinforcement Learning on Open-Domain]"**, *AAAI 2026*.  
 In this project, we provide the data, prompts, and running scripts for training the General QA task. 
 The complete data and prompts(Summarization and Open writing) will be made available after the results are released.
-
-> **[SERL]**   
-> **Conference/Journal:** [AAAI2026]  
 
 The implementation is based on the [TRL (Transformer Reinforcement Learning)](https://github.com/huggingface/trl) library by Hugging Face, which provides state-of-the-art methods for post-training foundation models using techniques such as DPO, PPO, SFT, and more.
 
